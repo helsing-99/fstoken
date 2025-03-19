@@ -1,0 +1,20 @@
+pyrofork==2.3.45
+TgCrypto
+pyromod
+humanize
+schedule
+APscheduler
+# --- For-Database ------------ #
+pymongo
+motor
+dnspython
+# --- For-Web-Response ------- #
+aiohttp
+python-dotenv
+# --- For-Web-Response ------- #
+pytz
+requests
+bs4
+shortzy
+aiofiles
+asyncio
